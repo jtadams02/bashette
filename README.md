@@ -1,2 +1,5 @@
-# bashette
-This repository contains my first attempt at creating a linux package. This package is called "Bashette" and essentially will be Russian Roulette with certain aspects of your computer. Why am I doing this? Because I want to learn how to build a linux package :)
+# Bashette
+In this repository, I will learn and attempt to create my first linux package
+If all goes well, I may try creating a windows version of this code as well.
+The purpose of all of these is to run from the command-line in linux.
+Epic I know
